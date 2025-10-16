@@ -6,5 +6,5 @@
     'files': \.typ$
     args: ["-i"]
     require_serial: false
-    additional_dependencies: ["cli:typstyle:0.12.6"]
+    additional_dependencies: ["cli:typstyle:0.12.7"]
     minimum_pre_commit_version: '0'
